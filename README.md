@@ -1,1 +1,2 @@
-# Newsly
+Team Chandivali-
+News Application
